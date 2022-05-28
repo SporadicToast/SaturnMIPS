@@ -1,0 +1,16 @@
+mnemonic,format,opcode,func
+sw,i,2b,x
+beq,i,4,x
+addi,i,8,x
+j,j,2,x
+add ,r,0,20
+sub,r,0,22
+and,r,0,24
+or,r,0,25
+slt,r,0,2a
+lw,i,23,x
+sll, r, 0, 0 
+sb, i, 28, x
+ble, i, 1f, x
+zfr, r, 0, 33
+li, i, 11, x
