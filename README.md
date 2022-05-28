@@ -2,13 +2,13 @@
 CS21 - UPD, Project 2 encoder
 # 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36bb524b-e7ea-4378-bfd7-0530f77739a3/Untitled.png)
+![Untitled](https://i.imgur.com/2480Ulw.png)
 
 ### Saturn MIPS
 
 - Saturn MIPS is a encoder that allows the input of instructions, registers, immediates and commands and converts it to machine code.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10ad2197-ea34-4a11-920d-48f646009ddc/Untitled.png)
+![Untitled](https://i.imgur.com/6UhJ1XY.png)
 
 - Input the relevant details into the command line and it outputs it to two places, out.txt for machine code, out_eng.txt for “kinda” human readable MIPS.
 - Limitations:
